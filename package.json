@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon index.js",
-    "test": "jest --coverage --config ./jest.config.js --detectOpenHandles",
-    "coverage": "cross-env NODE_ENV=development jest --coverage --runInBand --detectOpenHandles --forceExit"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",

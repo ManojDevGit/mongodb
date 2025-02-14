@@ -16,3 +16,6 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+
+// "test": "jest --coverage --config ./jest.config.js --detectOpenHandles",
+//     "coverage": "cross-env NODE_ENV=development jest --coverage --runInBand --detectOpenHandles --forceExit"
