@@ -1,0 +1,5 @@
+![add_user](https://github.com/user-attachments/assets/e01d4aaa-2e3e-4b77-9d76-f2cfc4c7b5ca)
+![updateUser](https://github.com/user-attachments/assets/4f8d18a7-dc8c-4039-8bcc-40e2a0225e53)
+![getAllUser](https://github.com/user-attachments/assets/7666f71a-5ec3-403c-ab8c-21e7fee2396b)
+![mongodb](https://github.com/user-attachments/assets/674b2be3-0c16-41e2-a831-8f94fcddfe28)
+![testcase](https://github.com/user-attachments/assets/552d0af8-306f-4b77-88b8-25929146efb5)
